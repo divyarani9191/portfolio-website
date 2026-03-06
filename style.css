@@ -125,11 +125,14 @@ box-shadow:
 
 }
 
-footer{
-    margin-top:40px;
-    text-align:center;
-    padding:20px;
-    color:white;
+footer {
+    background-color: #0d6efd;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 footer a{
@@ -140,3 +143,4 @@ footer a{
 footer a:hover{
     text-shadow:0 0 10px #00f7ff;
 }
+
