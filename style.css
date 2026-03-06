@@ -126,9 +126,17 @@ box-shadow:
 }
 
 footer{
-background:#222;
-color:white;
-text-align:center;
-padding:20px;
-margin-top:40px;
+    margin-top:40px;
+    text-align:center;
+    padding:20px;
+    color:white;
+}
+
+footer a{
+    color:#00f7ff;
+    text-decoration:none;
+}
+
+footer a:hover{
+    text-shadow:0 0 10px #00f7ff;
 }
